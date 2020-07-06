@@ -1,0 +1,21 @@
+==================
+Soal Ujian Akhir Semester
+Matkul : Arsitektu dan organisasi Komputer
+Kelas : TI.17.D3 & TI.17.D4
+Universitas Pelita Bangsa
+2020
+================
+
+
+1. Dalam arsitektur komputer ada 4 komponen Utama CPU, Sebutkan dan jelaskan kegunanaanya?
+2. Control Unit adalah bagian dari komputer yang menggenerasi signal yang mengontrol operasi
+komputer, sebutkan jenis apa saja yang termasuk Control Unit?
+3. Set instruksi (instruction set) adalah sekumpulan lengkap instruksi yang dapat di mengerti oleh sebuah
+CPU. Set instruksi sering juga disebut sebagai bahasa mesin . sebutkan macam-macam format
+Instruksi?
+4. Direct Memory Access (DMA) adalah suatu metode transfer data dari memori komputer atau RAM ke
+suatu bagian dari komputer tanpa memprosesnya menggunakan CPU. Sebutkan kelebihan
+menggunakan DMA ?
+5. Pipeline adalah mesin yang melaksanakan beberapa komputasi yang berbeda secara bersama-sama
+,namun pada saat itu setiap komputasi akan berada dalam tahapan eksekusi yang berbeda. Sebutkan
+dua kategori Pipeline ?
