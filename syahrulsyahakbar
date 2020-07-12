@@ -1,0 +1,67 @@
+==================
+Soal Ujian Akhir Semester
+Matkul : Arsitektu dan organisasi Komputer
+Kelas : TI.17.D3 & TI.17.D4
+Universitas Pelita Bangsa
+2020
+================
+
+NAMA	: SYAHRUL SYAH AKBAR
+NIM	: 311710405
+KELAS	: TI.17.D3
+
+1. Dalam arsitektur komputer ada 4 komponen Utama CPU, Sebutkan dan jelaskan kegunanaanya?
+2. Control Unit adalah bagian dari komputer yang menggenerasi signal yang mengontrol operasi
+komputer, sebutkan jenis apa saja yang termasuk Control Unit?
+3. Set instruksi (instruction set) adalah sekumpulan lengkap instruksi yang dapat di mengerti oleh sebuah
+CPU. Set instruksi sering juga disebut sebagai bahasa mesin . sebutkan macam-macam format
+Instruksi?
+4. Direct Memory Access (DMA) adalah suatu metode transfer data dari memori komputer atau RAM ke
+suatu bagian dari komputer tanpa memprosesnya menggunakan CPU. Sebutkan kelebihan
+menggunakan DMA ?
+5. Pipeline adalah mesin yang melaksanakan beberapa komputasi yang berbeda secara bersama-sama
+,namun pada saat itu setiap komputasi akan berada dalam tahapan eksekusi yang berbeda. Sebutkan
+dua kategori Pipeline ?
+
+================
+Jawaban
+
+1. 	-Unit Masukan (Input), yaitu perangkat yang memungkinkan pengguna memasukkan data atau perintah ke dalam komputer. 
+	Contoh perangkat yang termasuk dalam unit masukan adalah : keyboard, mouse, joystick, dan digitizer.
+	
+	-Unit Keluaran (Output), yaitu perangkat yang memungkinkan pengguna menerima informasi hasil pemrosesan oleh komputer. 
+	Contoh perangkat yang termasuk dalam unit keluaran adalah : monitor, printer, dan plotter.
+
+	-Unit Memori Utama (Main memory), yaitu perangkat yang digunakan untuk menyimpan data, program, dan informasi hasil pemrosesan komputer 
+	pada saat pemrosesan. Unit memori utama terdiri dari banyak sel, yang masing-masing dapat menyimpan satu satuan informasi. 
+	Unit memori utama terdiri dari dua bagian, yaitu ROM (Read Only Memory) dan RAM (Random Access Memory). 
+	ROM hanya dapat ditulisi sekali saja dan selanjutnya hanya dapat dibaca. RAM dapat ditulisi, dihapus dan dibaca berulang kali. 
+	Data, program, dan informasi yang sedang diproses disimpan dalam RAM ini, dan akan hilang apabila komputer dimatikan. 
+	Itu sebabnya data, program, dan informasi yang akan digunakan lagi disimpan dalam media penyimpanan tambahan (secondary storage) seperti, 
+	hard disk, disket, CD, tape dan lain-lain.
+
+	-Unit Pemrosesan Pusat (Central Processing Unit), yaitu bagian yang digunakan untuk memproses data, program, dan informasi pada komputer. 
+	Ada dua bagian penting dalam CPU yaitu Arithmetic and Logical Unit (ALU) dan Control Unit. Banyak orang menyebutkan ALU adalah jantung dari sebuah komputer. 
+	ALU bertanggung jawab pada dua operasi dasar yaitu operasi aritmatik dan perbandingan. Sedangkan Control Unit bertanggung jawab untuk menkoordinasi semua 
+	aktivitas unit-unit lain, misalnya bagaimana keyboard dapat dikenali dan bekerja sebagai unit input yang dimengerti aktivitasnya.
+
+
+2.	-Single cycle CU
+	-Multi cycle CU
+
+
+3.	-Format instruksi
+	-Format alamat
+	-Format tiga alamat
+	-Format dua alamat
+	-Format alamat satu setengah
+	-Antar operasi, Operasi akumulator
+
+4.	-Memperepat pengopersian komputer
+	-Memungkinkan multitasking
+	-Menulis data pada memory internal tanpa keterlibatan CPU
+	-Membebaskan CPU overheat
+	-Transfer dan pemrosesan data secara bersamaan
+
+5	-Micoprocessor
+	-Processor
